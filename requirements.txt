@@ -1,0 +1,2 @@
+click==6.6
+docker-py==1.8.1
